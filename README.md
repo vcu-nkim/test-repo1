@@ -9,3 +9,7 @@
 Adding a change for the live demo in class.
 
 Adding an Edit for assignment
+
+$ pipenv install black==20.8b1
+
+$ pipenv run black .
